@@ -25,5 +25,7 @@ The risk-return was the next aspect to be analyzed using Sharpe ratios
 The final step was to choose the two most viable funds using the Sharpe ratios and finding the beta of a 60-day rolling period for each.
 ![screenshot7](https://github.com/nahinhayat/Module4Challenge/blob/main/screenshots/Screen%20Shot%202023-03-14%20at%209.50.42%20PM.png)
 
+Author
 
+Nahin Hayat https://www.linkedin.com/in/nahinhayat/
 
